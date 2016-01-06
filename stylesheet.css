@@ -1,4 +1,4 @@
-.top {
+#top {
 	background-color: #242424;
 	color: white;
 	text-align: center;
@@ -37,13 +37,13 @@ strong {
 	font-size: 15px;
 }
 
-.middle {
+#middle {
   	background-image: url("images/casa2.JPG");
   	background-repeat: no-repeat;
   	background-position: center;
   	background-size: cover;
-  	height: 700px;
-  	margin-top: -150px;
+  	height: 850px;
+  	margin-top: -100px;
   	-webkit-box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
   	-moz-box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
   	box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
@@ -74,7 +74,7 @@ span {
 	float: right;
 	padding-top: 10%;
 }
-.bottom {
+#bottom {
 	margin-top: 6%;
 	font-family: 'Raleway', sans-serif;
 	margin-left: 5%;
