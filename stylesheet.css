@@ -70,7 +70,11 @@ span {
 }
 .arrow {
 	float: right;
-	padding-top: 10%;
+	padding-top: 12%;
+	margin-right: 40px;
+}
+.arrow2 {
+	padding-left: 95px;
 }
 #bottom {
 	margin-top: 4%;
