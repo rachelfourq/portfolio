@@ -96,13 +96,22 @@ footer a {
 }
 
 /*resume page*/
-.card {
+.resumecard {
  	height: 1350px;
  	width: auto;
   	-webkit-box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
   	-moz-box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
   	box-shadow: 0px 3px 34px 14px rgba(0,0,0,0.75);
   	margin-left: 5%;
+}
+
+.card-image {
+	height: 300px;
+	width: auto;
+}
+
+.social {
+	margin-bottom: 20%;
 }
 
 
